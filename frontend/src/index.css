@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{font-family:Inter,ui-sans-serif,system-ui;color:#f4f4f5;background:#09090b;font-synthesis:none}
+*{box-sizing:border-box}body{margin:0;min-width:320px;background:radial-gradient(ellipse at top,#171326 0%,#09090b 48%);min-height:100vh}
+input,textarea{outline:none}button{transition:transform .15s,opacity .15s}button:active{transform:scale(.98)}
